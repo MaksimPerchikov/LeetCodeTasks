@@ -1,10 +1,8 @@
 package main.java.tasks;
 
-import java.util.Arrays;
-
 public class TwoSumArray {
 
-    /**
+    /** Сумма двух элементов массива должна быть равна определенному числу
      * int [] array1 = {2,7,11,15}; int[] ints1 = twoSum(array1, 9); System.out.println(Arrays.toString(ints1));
      * Output: [0,1]
      * <p>
